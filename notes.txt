@@ -1,0 +1,5 @@
+To run Jekyll in your local system with dockeri:
+
+  sudo docker pull grahamc/jekyll
+  sudo docker run --rm -v "$(pwd):/src" -p 4000:4000 grahamc/jekyll serve
+
