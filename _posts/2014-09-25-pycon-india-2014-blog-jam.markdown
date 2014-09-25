@@ -5,11 +5,12 @@ date:   2014-09-25 04:24:37
 categories: technology news
 ---
 
-ZeOmega is a proud sponsor of [PyCon India 2014][pycon-india-2014]!
-During the conference days, we are organizing a Blog jam.  You are
-welcome to write technical blog for ZeOmega TechBlog!  Selected
-entries will be published in our technical blog.  Winners will also
-receive cool gifts.  Are you excited to paticipate ?
+ZeOmega is the proud platinum sponsor of [PyCon India
+2014][pycon-india-2014]!  During the conference days, we are
+organizing a Blog jam.  You are welcome to write technical blog for
+ZeOmega TechBlog!  Selected entries will be published in our technical
+blog.  Winners will also receive cool gifts.  Are you excited to
+paticipate ?
 
 If you are interested to participate, fork our [Github
 repository][github-repo] and send pull requests.  You can add your
