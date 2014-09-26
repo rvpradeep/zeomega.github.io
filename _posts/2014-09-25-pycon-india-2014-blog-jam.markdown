@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PyCon India 2014 Blog Jam!"
+title:  "ZeOmega Blog Jam at PyCon India 2014!"
 date:   2014-09-25 04:24:37
 categories: technology news
 ---
